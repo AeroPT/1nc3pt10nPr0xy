@@ -1,7 +1,7 @@
 # 1nc3pt10nPr0xy
-Washing Machine Technical Manual
+MANUAL TÉCNICO PARA MÁQUINAS DE LAVAR ROUPA 😁
 
-# InceptionProxy 🚀
+#1nc3pt10nPr0xy 🚀
 
 Um proxy API robusto e headless, desenvolvido em Python, que interceta pedidos de chat completion no padrão OpenAI e encaminha-os dinamicamente através de uma instância Chromium controlada por Playwright, utilizando a interface de chat da InceptionLabs.
 

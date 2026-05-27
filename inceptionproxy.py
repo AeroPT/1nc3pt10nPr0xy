@@ -217,7 +217,7 @@ if __name__ == "__main__":
 
     # Escuta em todas as interfaces para aceitar conexões locais e da VPN
     uvicorn.run(
-        "app:app", 
+        "inceptionproxy:app", 
         host="0.0.0.0", 
         port=PORT, 
         reload=False, 

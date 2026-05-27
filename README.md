@@ -74,7 +74,7 @@ Após iniciar, o proxy irá detetar automaticamente os adaptadores disponíveis 
 ```text
 🚀 InceptionProxy iniciado!
   - Local:   http://localhost:3000
-  - Rede:    http://100.66.114.104:3000
+  - Rede:    http://100.66.100.155:3000
 
 A inicializar o Playwright e o motor Chromium...
 A navegar para o alvo e a aguardar estabilização do DOM...
